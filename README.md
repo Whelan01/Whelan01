@@ -11,6 +11,6 @@
 - 🔭 I am currently working with support (in addition I am improving my data structures and algorithmic skills regularly).
 - 🤝 I'm looking to collaborate on projects related to development, mainly Web.
 
-**Whelan01/Whelan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 
